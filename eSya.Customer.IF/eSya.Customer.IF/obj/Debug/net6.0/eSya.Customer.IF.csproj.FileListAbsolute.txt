@@ -1,0 +1,15 @@
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\bin\Debug\net6.0\eSya.Customer.IF.deps.json
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\bin\Debug\net6.0\eSya.Customer.IF.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\bin\Debug\net6.0\eSya.Customer.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\bin\Debug\net6.0\eSya.Customer.DO.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\bin\Debug\net6.0\eSya.Customer.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.csproj.AssemblyReference.cache
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.csproj.CopyComplete
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\refint\eSya.Customer.IF.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\eSya.Customer.IF.pdb
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.IF\eSya.Customer.IF\obj\Debug\net6.0\ref\eSya.Customer.IF.dll

@@ -1,0 +1,11 @@
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\bin\Debug\net6.0\eSya.Customer.DO.deps.json
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\bin\Debug\net6.0\eSya.Customer.DO.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\bin\Debug\net6.0\eSya.Customer.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.AssemblyInfoInputs.cache
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.AssemblyInfo.cs
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.csproj.CoreCompileInputs.cache
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\refint\eSya.Customer.DO.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.pdb
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\ref\eSya.Customer.DO.dll
