@@ -277,3 +277,4 @@ D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.WebAPI\eSya.Cust
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.WebAPI\eSya.Customer.WebAPI\obj\Debug\net6.0\eSya.Customer.WebAPI.pdb
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.WebAPI\eSya.Customer.WebAPI\obj\Debug\net6.0\eSya.Customer.WebAPI.genruntimeconfig.cache
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.WebAPI\eSya.Customer.WebAPI\obj\Debug\net6.0\ref\eSya.Customer.WebAPI.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.WebAPI\eSya.Customer.WebAPI\obj\Debug\net6.0\eSya.Customer.WebAPI.sourcelink.json

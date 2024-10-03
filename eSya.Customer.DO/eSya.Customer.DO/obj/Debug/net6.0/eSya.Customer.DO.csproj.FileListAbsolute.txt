@@ -9,3 +9,4 @@ D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\refint\eSya.Customer.DO.dll
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.pdb
 D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\ref\eSya.Customer.DO.dll
+D:\Projects\eSyaProjects2022\eSya.Customer.WebAPI\eSya.Customer.DO\eSya.Customer.DO\obj\Debug\net6.0\eSya.Customer.DO.sourcelink.json

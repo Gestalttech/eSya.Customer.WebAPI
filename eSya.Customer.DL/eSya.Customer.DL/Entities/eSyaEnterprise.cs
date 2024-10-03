@@ -8,7 +8,6 @@ namespace eSya.Customer.DL.Entities
     public partial class eSyaEnterprise : DbContext
     {
         public static string _connString = "";
-
         public eSyaEnterprise()
         {
         }
@@ -87,20 +86,13 @@ namespace eSya.Customer.DL.Entities
 
                 entity.Property(e => e.LocationDescription).HasMaxLength(150);
 
+                entity.Property(e => e.Lstatus).HasColumnName("LStatus");
+
                 entity.Property(e => e.ModifiedOn).HasColumnType("datetime");
 
                 entity.Property(e => e.ModifiedTerminal).HasMaxLength(50);
 
                 entity.Property(e => e.ShortDesc).HasMaxLength(15);
-
-                entity.Property(e => e.TocurrConversion).HasColumnName("TOCurrConversion");
-
-                entity.Property(e => e.TolocalCurrency)
-                    .IsRequired()
-                    .HasColumnName("TOLocalCurrency")
-                    .HasDefaultValueSql("((1))");
-
-                entity.Property(e => e.TorealCurrency).HasColumnName("TORealCurrency");
             });
 
             OnModelCreatingPartial(modelBuilder);
